@@ -4,7 +4,6 @@ extends:
 - https://raw.githubusercontent.com/impact-scholars/isp-actions-config/v0.1.0/climatematch-2023.yml
 
 project:
-  doi: 10.5281/zenodo.12192494
   date: 2024-06-20
   authors:
   - name: James Hartzell
