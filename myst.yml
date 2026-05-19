@@ -30,9 +30,10 @@ project:
   - Tides
   - Congo
   - Climate Change
-  github: https://github.com/impact-scholars/hartzell-2023-oceanic-oscillations-congo
+  github: https://github.com/impact-scholars/hartzell-zenodo-test2
   bibliography:
   - bib.bib
   downloads:
   - file: assets/Fortepiano, Hesperosaurus_bon.CSIP.zip
     title: Code
+  doi: 10.5072/zenodo.501976
